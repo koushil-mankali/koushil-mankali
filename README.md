@@ -1,12 +1,12 @@
-<h1 align="center">Hey there! I'm </h1> ![Koushil Mankali](https://www.koushilmankali.com/)
+<h1 align="center">Hey there! I'm Koushil Mankali(https://www.koushilmankali.com/)</h1>
 
 <h1>My Tech Stack! 👨‍💻</h1>
 
 <div class='flex justify-content-center align-items-center'>
-<img alt="Night Coding" height='100' width='100' src="https://user-images.githubusercontent.com/65667531/155076300-4366ad03-64e9-4709-bf51-be1a71084ad9.png" />
-<img alt="Night Coding" height='100' width='100' src="https://user-images.githubusercontent.com/65667531/155076425-ba795f73-746b-424c-ae11-2e2a20e7d661.png"/>
-<img alt="Night Coding" height='100' width='100' src="https://user-images.githubusercontent.com/65667531/155076484-6731ed28-1e4a-474e-9b60-1332a3144d0a.png"/>
-<img alt="Night Coding" height='100' width='100' src="https://user-images.githubusercontent.com/65667531/155076460-5d333fe8-f10f-46bc-9f20-bb02762c04f0.jpg"/>
+<img alt="Night Coding" height='100' width='150' src="https://user-images.githubusercontent.com/65667531/155076300-4366ad03-64e9-4709-bf51-be1a71084ad9.png" />
+<img alt="Night Coding" height='100' width='150' src="https://user-images.githubusercontent.com/65667531/155076425-ba795f73-746b-424c-ae11-2e2a20e7d661.png"/>
+<img alt="Night Coding" height='100' width='150' src="https://user-images.githubusercontent.com/65667531/155076484-6731ed28-1e4a-474e-9b60-1332a3144d0a.png"/>
+<img alt="Night Coding" height='100' width='150' src="https://user-images.githubusercontent.com/65667531/155076460-5d333fe8-f10f-46bc-9f20-bb02762c04f0.jpg"/>
 </div>
 
 ### Other Skills
