@@ -12,6 +12,7 @@
 
 <div align="left">
 <div>
+
 ### Other Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -29,7 +30,8 @@
 ![More...](https://img.shields.io/badge/And%20More!-yellow?style=flat)&nbsp;
 <div>
 
-<div align="right">
+<div align="left">
+
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
