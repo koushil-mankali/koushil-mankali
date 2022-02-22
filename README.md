@@ -10,30 +10,39 @@
 <img alt="Night Coding" height='100' width='130' src="https://user-images.githubusercontent.com/65667531/155076460-5d333fe8-f10f-46bc-9f20-bb02762c04f0.jpg"/>
 </div>
 
+<div class='flex justify-content-space-between align-items-center'>
+<div>
+
 ### Other Skills
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![NextJS](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=next)&nbsp;
+![NextJS](https://img.shields.io/badge/-Next.js-05122A?style=flat&logo=next)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![MongoDb](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=mongodb)&nbsp;
-![Mongoose](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=mongoose)&nbsp;
-![NestJS](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=nest)&nbsp;
-![Redux](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=redux)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![MongoDb](https://img.shields.io/badge/-Mongodb-05122A?style=flat&logo=mongodb)&nbsp;
+![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongoose)&nbsp;
+![NestJS](https://img.shields.io/badge/-Nest.js-05122A?style=flat&logo=nest.js)&nbsp;
+![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Formik](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=formik&logoColor=563D7C)\
+![Formik](https://img.shields.io/badge/-Formik-05122A?style=flat&logo=formik&logoColor=563D7C)
 ![More...](https://img.shields.io/badge/And%20More!-yellow?style=flat)&nbsp;
+
+</div>
+
+<div>
 
 ### Tools
 
-![Postman](https://img.shields.io/badge/-Nest-05122A?style=flat&logo=postman)&nbsp;
+![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![More...](https://img.shields.io/badge/And%20More!-yellow?style=flat)&nbsp;
+</div>
+</div>
 
 <h1>About Me! 😎</h1>
 
