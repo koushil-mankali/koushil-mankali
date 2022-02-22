@@ -3,10 +3,10 @@
 <h1>My Tech Stack! 👨‍💻</h1>
 
 <div class='flex justify-content-center align-items-center'>
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/65667531/155076300-4366ad03-64e9-4709-bf51-be1a71084ad9.png" />
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/65667531/155076425-ba795f73-746b-424c-ae11-2e2a20e7d661.png"/>
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/65667531/155076484-6731ed28-1e4a-474e-9b60-1332a3144d0a.png"/>
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/65667531/155076460-5d333fe8-f10f-46bc-9f20-bb02762c04f0.jpg"/>
+<img alt="Night Coding" height='100' width='100' src="https://user-images.githubusercontent.com/65667531/155076300-4366ad03-64e9-4709-bf51-be1a71084ad9.png" />
+<img alt="Night Coding" height='100' width='100' src="https://user-images.githubusercontent.com/65667531/155076425-ba795f73-746b-424c-ae11-2e2a20e7d661.png"/>
+<img alt="Night Coding" height='100' width='100' src="https://user-images.githubusercontent.com/65667531/155076484-6731ed28-1e4a-474e-9b60-1332a3144d0a.png"/>
+<img alt="Night Coding" height='100' width='100' src="https://user-images.githubusercontent.com/65667531/155076460-5d333fe8-f10f-46bc-9f20-bb02762c04f0.jpg"/>
 </div>
 
 ### Other Skills
@@ -39,16 +39,9 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<div class='flex justify-content-center align-items-center'>
+<div class='flex justify-content-space-between align-items-center'>
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koushil-mankali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koushil-mankali&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </div>
-
-### ✉️ &nbsp;Get in Touch!
-
-<p align="center">
-<a href="https://www.koushilmankali.com"><img src="https://img.shields.io/badge/-koushilmankali.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://linkedin.com/in/koushil-mankali"><img src="https://img.shields.io/badge/-Koushil%Mankali-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
