@@ -10,7 +10,7 @@
 <img alt="Night Coding" height='100' width='130' src="https://user-images.githubusercontent.com/65667531/155076460-5d333fe8-f10f-46bc-9f20-bb02762c04f0.jpg"/>
 </div>
 
-<div align="center">
+<div align="left">
 
 ### Other Skills
 
@@ -27,8 +27,9 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Formik](https://img.shields.io/badge/-Formik-05122A?style=flat&logo=formik&logoColor=563D7C)
 ![More...](https://img.shields.io/badge/And%20More!-yellow?style=flat)&nbsp;
+<div>
 
-
+<div align="right">
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
