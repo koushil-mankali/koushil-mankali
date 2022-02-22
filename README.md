@@ -11,7 +11,6 @@
 </div>
 
 <div class='flex justify-content-center align-items-center'>
-<div>
 
 ### Other Skills
 
@@ -29,10 +28,6 @@
 ![Formik](https://img.shields.io/badge/-Formik-05122A?style=flat&logo=formik&logoColor=563D7C)
 ![More...](https://img.shields.io/badge/And%20More!-yellow?style=flat)&nbsp;
 
-</div>
-
-<div>
-
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
@@ -41,7 +36,6 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![More...](https://img.shields.io/badge/And%20More!-yellow?style=flat)&nbsp;
-</div>
 </div>
 
 <h1>About Me! 😎</h1>
