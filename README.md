@@ -10,7 +10,8 @@
 <img alt="Night Coding" height='100' width='130' src="https://user-images.githubusercontent.com/65667531/155076460-5d333fe8-f10f-46bc-9f20-bb02762c04f0.jpg"/>
 </div>
 
-<div class='flex justify-content-center align-items-center'>
+<div align="center">
+<div>
 
 ### Other Skills
 
@@ -28,6 +29,10 @@
 ![Formik](https://img.shields.io/badge/-Formik-05122A?style=flat&logo=formik&logoColor=563D7C)
 ![More...](https://img.shields.io/badge/And%20More!-yellow?style=flat)&nbsp;
 
+</div>
+
+<div>
+
 ### Tools
 
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
@@ -36,6 +41,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![More...](https://img.shields.io/badge/And%20More!-yellow?style=flat)&nbsp;
+</div>
 </div>
 
 <h1>About Me! 😎</h1>
