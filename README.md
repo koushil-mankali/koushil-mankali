@@ -46,7 +46,7 @@
 <h1>About Me! 😎</h1>
 
 - I am a Computer Science Graduate.
-- I am Currently working at Amoghnya Tech Solutions.
+- I am Currently working at ITalentDigital.
 - I have started building web applications and websites from my 11th grade.
 - I am very interested in building web applications in JaavaScript stacks. 
 
@@ -58,7 +58,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div class='flex justify-content-space-between align-items-center'>
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/koushil-mankali">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=koushil-mankali&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=koushil-mankali&layout=compact&langs_count=8&theme=algolia"/>
 </a>
