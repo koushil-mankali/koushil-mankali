@@ -52,7 +52,7 @@
 
 <h1>Some of my top Projects! 🎨</h1>
  
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushil-mankali&repo=zomato_clone&show_owner=true)](https://github.com/koushil-mankali/zomato_clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushil-mankali&repo=covid-help-disk-frontend&show_owner=true)](https://github.com/koushil-mankali/covid-help-disk-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushil-mankali&repo=uclone&show_owner=true)](https://github.com/koushil-mankali/uclone)
 
