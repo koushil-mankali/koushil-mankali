@@ -15,6 +15,7 @@
 
 ### Other Skills
 
+ <div class=''>
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=next.js)&nbsp;
@@ -23,11 +24,12 @@
 ![Mongoose](https://img.shields.io/badge/-Mongoose-05122A?style=flat&logo=mongodb)&nbsp;
 ![Nestjs](https://img.shields.io/badge/-NestJS-05122A?style=flat&logo=nestjs)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;\
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;\
-![Formik](https://img.shields.io/badge/-Formik-05122A?style=flat&logo=formik&logoColor=563D7C)
+![Formik](https://img.shields.io/badge/-Formik-05122A?style=flat&logo=formik&logoColor=563D7C)&nbsp;
 ![More...](https://img.shields.io/badge/And%20More!-yellow?style=flat)&nbsp;
+ </div>
 <div>
 
 <div align="left">
