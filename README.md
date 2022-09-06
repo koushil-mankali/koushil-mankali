@@ -4,7 +4,7 @@
 <h1>My Tech Stack! 👨‍💻</h1>
 
 <div class='flex justify-content-center align-items-center'>
-<img alt="Mern Stack" height='100' width='130' src="https://user-images.githubusercontent.com/65667531/188546327-583a17a1-889f-4023-974c-3d81c95e7913.png"/>
+<img alt="Mern Stack" height='140' width='500' src="https://user-images.githubusercontent.com/65667531/188546327-583a17a1-889f-4023-974c-3d81c95e7913.png"/>
 </div>
 
 <div align="left">
