@@ -49,13 +49,13 @@
 - I have started building web applications and websites from my 11th grade.
 - I am very interested in building web applications in JaavaScript stacks. 
 
-<h1>Some of my top Projects! 🎨</h1>
+<!-- <h1>Some of my top Projects! 🎨</h1>
  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushil-mankali&repo=zomato_clone&show_owner=true)](https://github.com/koushil-mankali/zomato_clone)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushil-mankali&repo=covid-help-disk-frontend&show_owner=true)](https://github.com/koushil-mankali/covid-help-disk-frontend)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushil-mankali&repo=covid-help-disk-nodejs&show_owner=true)](https://github.com/koushil-mankali/covid-help-disk-nodejs)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=koushil-mankali&repo=uclone&show_owner=true)](https://github.com/koushil-mankali/uclone)
-
+ -->
 ### ⚙️ &nbsp;GitHub Analytics
 
 <div class='flex justify-content-space-between align-items-center'>
