@@ -47,7 +47,7 @@
 - I am a Computer Science Graduate.
 - I am Currently working at ITalentDigital.
 - I have started building web applications and websites from my 11th grade.
-- I am very interested in building web applications in JaavaScript stacks. 
+- I am very interested in building web applications in JavaScript stacks. 
 
 <h1>Some of my top Projects! 🎨</h1>
  
