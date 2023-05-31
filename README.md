@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Koushil Mankali</h1>
-<p align='center'>Portfolio: https://www.koushilmankali.com</p>
+<p align='center'>Portfolio: https://www.koushilmankali.in</p>
 
 <h1>My Tech Stack! 👨‍💻</h1>
 
